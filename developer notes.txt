@@ -1,0 +1,1 @@
+purpose: to create a turn-based, pokemon-like game involving cards, player growths, etc.
